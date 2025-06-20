@@ -29,7 +29,7 @@ GitHub Pages: A platform for hosting and deploying web applications.
 Installation
 To run this portfolio locally, follow these steps:
 
-Clone the repository: git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git
+Clone the repository: git clone https://github.com/SanadSonone/Portfolio-Website-.git
 Navigate to the project directory: cd rishav-chanda-portfolio
 Install the dependencies: npm install
 Start the development server: npm start
