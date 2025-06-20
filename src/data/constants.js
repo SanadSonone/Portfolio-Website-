@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SanadSonone",
   resume:
-    "https://drive.google.com/file/d/1jWUBD2H9yWTE_Jh8BdAU7BbRYjEMl8e8/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ZgfGEQo2c_VSJrF0ODUW5Oh-xZ6aRsJn/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sanad-sonone-23b800272/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/sanad_sonone_19/",
