@@ -1,7 +1,7 @@
 {
   "name": "sanad-sonone-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://SanadSonone.github.io/Portfolio-Website-",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

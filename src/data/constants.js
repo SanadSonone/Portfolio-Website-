@@ -10,7 +10,6 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1ZgfGEQo2c_VSJrF0ODUW5Oh-xZ6aRsJn/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sanad-sonone-23b800272/",
-  twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/sanad_sonone_19/",
 };
 
